@@ -247,8 +247,7 @@ succesfully signs URL's.
 Here's a demo of posting a comment and checking it using a 
 private browser to ensure it's successful.
 
-https://github.com/user-attachments/assets/7db5bb8f-8488-4b18-93ab-ad28407991d5
-
+https://github.com/user-attachments/assets/746aa1a1-d171-487a-819b-5b0ca1894c47
 
 
 NOTE: There are also some bot protection methods such as mouse tracking ([VM120](./decompiler/functions/VM120.js))
