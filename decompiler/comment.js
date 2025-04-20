@@ -102,7 +102,7 @@ async function PostComment(videoURL, text, loginCookie, userAgent = UserAgent, p
   const { comment, status_msg } = await PostComment(
     "https://www.tiktok.com/@famezygaming/video/7487160231240224022",
     "test test 123",
-    "sid_guard=669a530fe3a832249d28ac7611250387%7C1745012793%7C15551995%7CWed%2C+15-Oct-2025+21%3A46%3A28+GMT",
+    "sid_guard=", // place your own
   );
   console.log(status_msg, comment?.cid, comment.aweme_id);
 
